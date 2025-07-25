@@ -2,6 +2,8 @@
 
 ### Sales
 
+> ⚠️ All requests to this controller require a valid **JWT Bearer Token** in the `Authorization` header.
+
 #### POST /sales
 
 - Description: Create a new sale
