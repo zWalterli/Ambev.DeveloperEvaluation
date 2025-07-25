@@ -15,6 +15,11 @@ Backend:
 - **C#**: A modern object-oriented programming language developed by Microsoft.
   - Git: https://github.com/dotnet/csharplang
 
+Messaging:
+
+- **RabbitMQ**: Um broker de mensagens open-source que facilita a comunicação entre microsserviços através de filas e tópicos. Neste projeto, é utilizado para publicação de eventos de domínio como SaleCreated, SaleCancelled, e SaleItemCancelled.
+  - Git: https://github.com/rabbitmq/rabbitmq-server
+
 Testing:
 
 - **xUnit**: A free, open source, community-focused unit testing tool for the .NET Framework.
