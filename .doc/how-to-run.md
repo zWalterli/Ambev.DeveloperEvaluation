@@ -8,14 +8,11 @@ To get the project running locally, follow the steps below:
 
 Ensure the following tools are installed on your machine:
 
-- [.NET 8 SDK](https://dotnet.microsoft.com/en-us/download/dotnet/8.0)
 - [Docker](https://www.docker.com/products/docker-desktop)
-- [PostgreSQL](https://www.postgresql.org/download/) running on port `5432`
-- [RabbitMQ](https://www.rabbitmq.com/) running on port `9820`
 
 ### Running the Application
 
-#### Option 1: Using Docker Compose
+#### Using Docker Compose
 
 You can spin up the full environment using Docker Compose:
 

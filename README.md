@@ -69,7 +69,7 @@ See [Overview](/.doc/overview.md)
 
 This section show how to run the system
 
-See [Tech Stack](/.doc/how-to-run.md)
+See [How to run](/.doc/how-to-run.md)
 
 ## Tech Stack
 
